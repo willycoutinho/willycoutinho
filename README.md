@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" alt="" height="190px" src="https://github.com/user-attachments/assets/a1701668-33ec-4d23-a4b4-7fe0633f0b79">
+<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/a1701668-33ec-4d23-a4b4-7fe0633f0b79">
 <h3 align="left">Hi there, welcome to my profile!</h3>
 
 #
