@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h3 align="left"><font color="#FFD700">Hi there, welcome to my profile!</font></h3>
 
 #
-🔭 I’m currently working on Embedded Systems Projects, Geoprocessing and Machine Learning.
+🔭 I’m currently working on Embedded Systems Projects, Data Management and Machine Learning.
 
-🌱 I’m currently learning about back-end projects.
+🌱 I’m currently learning about IA applications.
 
 #
 
